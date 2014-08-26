@@ -2,6 +2,7 @@ knife-chef-vault-bootstrap Cookbook
 ===================
 Knife plugin to bootstrap a Chef node wrapped by chef-vault knife commands to automate the whole cycle.
 
+OK, this might not be a good idea! Let's cyrcle back with the Team!
 
 Requirements
 ------------
